@@ -1,0 +1,8 @@
+export const POPULATION = 'Population:'
+export const REGOIN = 'Rgoin:'
+export const CAPITAL = 'Capital:'
+export const COUNTRY_NAME = 'Country'
+export const NO_IMAGE = 'No image'
+export const WHERE_IN = 'Where in the world?'
+export const DARK_MODE = 'Dark Mode'
+export const FILTER_BY_CONTINENT = 'Filter by Continent'
