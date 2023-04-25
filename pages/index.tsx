@@ -1,4 +1,4 @@
-import styles from '@/styles/Home.module.css'
+import styles from '../styles/Home.module.css'
 import TextField from '@material-ui/core/TextField'
 import { MenuItem, Select } from '@material-ui/core'
 import CountryCard from '../components/CountryCard'

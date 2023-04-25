@@ -1,4 +1,4 @@
-import styles from '@/styles/Navbar.module.css'
+import styles from '../styles/Navbar.module.css'
 import NightlightOutlinedIcon from '@mui/icons-material/NightlightOutlined';
 import Link from 'next/link';
 import { WHERE_IN, DARK_MODE } from '../constants/strings'

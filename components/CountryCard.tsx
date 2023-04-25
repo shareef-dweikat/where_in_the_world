@@ -1,4 +1,4 @@
-import styles from '@/styles/Card.module.css'
+import styles from '../styles/Card.module.css'
 import { useRouter } from 'next/navigation';
 import Image from 'next/image'
 import {CAPITAL, NO_IMAGE, POPULATION, REGOIN} from '../constants/strings'
